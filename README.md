@@ -1,4 +1,4 @@
-# Python-assignment
+# Python
 I made a game using python
 <br>
 <h2>Guess the number</h2>
